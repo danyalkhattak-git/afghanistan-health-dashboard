@@ -7,6 +7,6 @@ Interactive dashboard of Afghanistan Health Cluster partner 4W reports, Jan 2022
 - **Response:** services delivered by month, province (map), sex and age group, partner and facility type, for 22 indicators.
 - **Data quality:** partner reporting completeness and timeliness, duplicate rows, values far above a facility's usual level, and indicators renamed mid-period.
 
-Figures count services, not unique people, and are never summed across indicators. Partner names are replaced with random codes. `prep/who_prep.py` contains the cleaning and quality checks; the raw data is not included.
+Figures count services, not unique people, and are never summed across indicators. `prep/who_prep.py` contains the cleaning and quality checks; the raw data is not included.
 
 Danyal Khattak
